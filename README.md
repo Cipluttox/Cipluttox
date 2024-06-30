@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chintya Amanda Firdausi</h1>
 <h3 align="center">I'm a students in the Jember University</h3>
-<img align="center" alt="Luffy" widhth="100" src=https://64.media.tumblr.com/f260a7e4f0a3d977232e64cad12d73b2/tumblr_pz1h4bZ0cZ1takdglo1_500.gif
+<img align="center" alt="Luffy" widhth="100" src=https://www.gifcen.com/wp-content/uploads/2021/12/luffy-gif-15.gif
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chintya13&label=Profile%20views&color=0e75b6&style=flat" alt="chintya13" /> </p>
 
